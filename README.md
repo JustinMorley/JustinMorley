@@ -10,6 +10,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=JustinMorley&style=flat-square&color=blue" alt=""/>
 
+[__Resume__](https://github.com/JustinMorley/JustinMorley/blob/main/resume_9_18.pdf)
+
 ---
 ## Skills
 - __Coding Languages and tools:__ I have advanced knowledge in Python, R, SQL, Power BI, Microsoft Fabric, Data Pipelines, Machine Learning, etc  
